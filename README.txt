@@ -1,0 +1,1 @@
+to open the web os just double click index.html to launch it have fun!
